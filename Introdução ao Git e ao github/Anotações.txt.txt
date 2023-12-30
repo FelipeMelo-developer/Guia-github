@@ -2,10 +2,35 @@ Link para dowload do Git: https://git-scm.com/downloads
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
-Link para Logotipos Git: https://git-scm.com/downloads/logos
 
-Link Manual de referencia Git: https://git-scm.com/docs
+Criando um repositorio no Github:
 
-Link E-book Git: https://git-scm.com/book/en/v2
+Imagem
 
-Link Tutorial oficial do Git: https://git-scm.com/doc/ext 
+Readme: Pagina inicial do nosso repositorio, um arquivo onde podemos por algumas considerações iniciais, links uteis e etc..
+gitignore: Arquivo que pode ser colocado para ignorar alguns arquivos que não são excenciais
+Licença: Pode ser colocado é opcional.
+
+1-  Dentro da pasta onde deseja criar o repositorio local clique com botão direito do mouse e abra o Git Bash:
+
+$ git clone + endereço de repositorio remoto.
+
+2 - Para entrar dentro da pasta coloque:
+$ cd + nome da pasta.
+
+Verificar o status:
+$ git status
+
+Para enviar o arquivos para controle de versão local(todos os arquivos):
+$ git add .
+
+Verificar o status
+$ git status
+
+Para commitar o arquivo em nuvem:
+$ git commit -m "texto comentario do commit que faz sentido para o que esta sendo enviado"
+
+
+Para enviar para nuvem precisar ser dado um push:
+$ git push origin (main ou master)
+

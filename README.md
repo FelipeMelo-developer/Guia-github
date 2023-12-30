@@ -11,6 +11,7 @@ Em caso de duvidas fique a vontade para entrar em contato [clique aqui](https://
 ## 🛠️ Links úteis
 - [Readme.so: Personalize facilmente seu Readme.](https://readme.so/pt/)
 - [Markdown Guide: Guia de referência gratuito e de código aberto.](https://markdownguide.org/)
+- [E-book Git.](https://git-scm.com/book/en/v2)
 
 
 ## 💻 

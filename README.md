@@ -19,7 +19,7 @@ Em caso de duvidas fique a vontade para entrar em contato [clique aqui](https://
 
 
 ## 💻 Cursos
-- [Introdução ao Git e ao GitHub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9)
+- [Introdução ao Git e ao GitHub - DIO ](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9)
 - [Curso de Git e GitHub grátis](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=7h1yJeBiZrft2BsShttps://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=7h1yJeBiZrft2BsS)
 
 

@@ -5,8 +5,6 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 Criando um repositorio no Github:
 
-Imagem
-
 Readme: Pagina inicial do nosso repositorio, um arquivo onde podemos por algumas considerações iniciais, links uteis e etc..
 gitignore: Arquivo que pode ser colocado para ignorar alguns arquivos que não são excenciais
 Licença: Pode ser colocado é opcional.

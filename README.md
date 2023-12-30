@@ -5,6 +5,7 @@ Repositório criado para o Desafio de Projeto Git/Gihub.
 Em caso de duvidas fique a vontade para entrar em contato [clique aqui](https://www.linkedin.com/in/felipedemeloab/)
 
 ## 📚 Documentação
+- [Anotações](https://github.com/FelipeMelo-developer/Desafios-github/blob/24e34d2542c75622664d554751d974798cbc4682/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20github/Anota%C3%A7%C3%B5es.txt.txtt)
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/pt)
 

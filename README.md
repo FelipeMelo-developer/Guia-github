@@ -33,6 +33,8 @@ Explore uma lista cuidadosamente compilada de links úteis que vão além dos co
 - [E-book Git.](https://git-scm.com/book/en/v2)
 - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Lista completa de emojis e códigos disponíveis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Distintivos para Github](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
+- [Badges](https://github.com/badges/shields)
 - [Como personalizar o seu perfil no Github com Canal Sujeito programador](https://www.youtube.com/watch?v=cRoBt6AZgjc)
 - [Como personalizar o seu perfil no Github com Rafaela Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU&t=516s)
 - [Hospede seu site de graça com GitHub Pages](https://www.youtube.com/watch?v=1_eKyE_mHrg)

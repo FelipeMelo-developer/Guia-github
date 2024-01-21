@@ -15,7 +15,7 @@ Em caso de duvidas fique a vontade para entrar em contato [Clique aqui.](https:/
 
 ### 📚 Documentação
 
-- [Anotações](https://github.com/FelipeMelo-developer/Desafios-github/blob/24e34d2542c75622664d554751d974798cbc4682/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20github/Anota%C3%A7%C3%B5es.txt.txtt)
+- [Anotações](https://github.com/FelipeMelo-developer/Desafios-github/blob/master/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20github/Anota%C3%A7%C3%B5es.txt.txt)
 
 Explore anotações detalhadas, cuidadosamente elaboradas para orientá-lo através dos conceitos fundamentais do Git e GitHub. Essas anotações fornecem um guia prático para ajudá-lo a navegar por desafios com confiança.
 

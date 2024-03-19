@@ -23,17 +23,39 @@ $ git clone + endereço de repositorio remoto.
 2 - Para entrar dentro da pasta coloque:
 $ cd + nome da pasta.
 
-Verificar o status:
+#### Verificar o status:
 $ git status
 
-Para enviar o arquivos para controle de versão local(todos os arquivos):
+Ao executá-lo é exibido na tela informações sobre as alterações feitas nos arquivos app.js e index.html do projeto e que essas mudanças que precisam ser registradas no commit.
+
+
+#### Para enviar o arquivos para controle de versão local(todos os arquivos):
 $ git add .
 
-Verificar o status
+Feito isso, provavelmente os arquivos foram adicionados Para conferir, rodamos novamente o git status.
+
+#### Verificando o status novamente
 $ git status
 
-Para commitar o arquivo em nuvem:
+Repare que ao fazer isso, notamos no terminal que a ferramenta indica que existem alterações para serem comitadas e quais foram os arquivos modificados. Além disso, a cor mudou para verde, isso significa que os arquivos foram adicionados corretamente.
+
+Agora que você já adicionou, podemos fazer o commit, que é o comando responsável por registrar uma modificação no código.
+
+#### Para commitar o arquivo em nuvem:
 $ git commit -m "texto comentario do commit que faz sentido para o que esta sendo enviado"
+
+Como retorno é informado que o commit foi realizado com sucesso.
+Importante ressaltar que, quando fazemos um commit é como se estivéssemos registrando uma versão do nosso sistema. Se estávamos na versão 1, passamos para a versão 2, depois para a versão 3, 4, 5, e assim por diante.
+
+#### verificando versão
+Existe um comando em que conseguimos identificar quais commits foram realizados no projeto e quem fez. Para isso, podemos utilizar o comando git log.
+
+$ git log
+
+Ao executá-lo é exibido o histórico dos commits que foram feitos ao longo do projeto.
+
+Se analisarmos o retorno, retonhamos o primeiro commit que foi feito para subir o projeto inicial. Identificamos o nome do autor, data seguido da mensagem. Logo acima temos o commit mais atual que é o que acabamos de fazer.
+Observe que o git log mostra o log, ou seja, o histórico de commits realizados no projeto. Assim, podemos identificar quem foi que fez cada registro, a mensagem, o significado de cada registro, a data e toda essa sequência de alterações no repositório.
 
 Para enviar para nuvem precisar ser dado um push:
 $ git push origin (main ou master)

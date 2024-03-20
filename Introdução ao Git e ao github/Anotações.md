@@ -47,6 +47,8 @@ $ git commit -m "texto comentario do commit que faz sentido para o que esta send
 Como retorno é informado que o commit foi realizado com sucesso.
 Importante ressaltar que, quando fazemos um commit é como se estivéssemos registrando uma versão do nosso sistema. Se estávamos na versão 1, passamos para a versão 2, depois para a versão 3, 4, 5, e assim por diante.
 
+Um commit deve ser realizado sempre que você finalizar uma tarefa específica ou resolver algum bug. Isso mantém o histórico de commits claro e rastreável, de modo que seja possível entender o que foi feito em cada commit.
+
 #### verificando versão
 Existe um comando em que conseguimos identificar quais commits foram realizados no projeto e quem fez. Para isso, podemos utilizar o comando git log.
 
@@ -57,8 +59,21 @@ Ao executá-lo é exibido o histórico dos commits que foram feitos ao longo do 
 Se analisarmos o retorno, retonhamos o primeiro commit que foi feito para subir o projeto inicial. Identificamos o nome do autor, data seguido da mensagem. Logo acima temos o commit mais atual que é o que acabamos de fazer.
 Observe que o git log mostra o log, ou seja, o histórico de commits realizados no projeto. Assim, podemos identificar quem foi que fez cada registro, a mensagem, o significado de cada registro, a data e toda essa sequência de alterações no repositório.
 
-Para enviar para nuvem precisar ser dado um push:
+
+$ git remote
+
+
+#### Enviando para o GitHub
+Para enviar para nuvem precisar ser dado um push
 $ git push origin (main ou master)
+
+Utilize o comando git push para enviar os commits do repositório local ao repositório remoto no GitHub
+
+#### Baixando do GitHub
+
+git pull origin main
+
+O comando git pull origin main é utilizado para baixar os commits do repositório remoto para o repositório local.
 
 ---
 
@@ -136,5 +151,9 @@ U: A letra U representa o estado Untracked, do português não rastreado. Isso s
 
 Essa sinalização nos ajuda a entender o estado atual dos nossos arquivos do projeto no versionamento Git.
 
+
+# Adicionando Colaboradores ao projeto
+
+Settings > Collaborators > add people
 
 

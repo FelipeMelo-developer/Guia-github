@@ -9,8 +9,10 @@ Git é um sistema de versionamento de código, que guarda os registros de versã
 
 ----
 # Intalação:
+<img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-621.gif" alt="esperando" align="right" alt="yoda" width="20%" height=auto>
 
 Link para dowload do Git: https://git-scm.com/downloads
+
 
 
 # Criando um repositorio no Github:

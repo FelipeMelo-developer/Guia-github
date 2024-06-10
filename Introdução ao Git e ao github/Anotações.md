@@ -1,7 +1,17 @@
 
 # Anotações
+<img src="https://media.baamboozle.com/uploads/images/643821/1664765202_566108_gif-url.gif" alt="esperando" align="right" alt="yoda" width="15%" height=auto>
 
-Versionamento: Registro de mudanças em arquivos, que possibilita recuperação ou acesso a versão anteriores, possibilitando desenvolvimento de código em colaboração com outros integrantes.
+
+Versionamento:
+
+◈ Registro de mudanças em arquivos, que possibilita recuperação ou acesso a versão anteriores;
+
+◈ Possibilitando desenvolvimento de código em colaboração com outros integrantes.
+
+
+
+
 
 # O que é git:
 
@@ -9,11 +19,12 @@ Git é um sistema de versionamento de código, que guarda os registros de versã
 
 ----
 # Intalação:
-<img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-621.gif" alt="esperando" align="right" alt="yoda" width="20%" height=auto>
+<img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-621.gif" alt="esperando" align="left" alt="yoda" width="20%" height=auto>
+◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈
 
 Link para dowload do Git: https://git-scm.com/downloads
 
-
+◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈
 
 # Criando um repositorio no Github:
 
@@ -157,7 +168,7 @@ Lembre-se de que o comando git remote é fundamental para a gestão de conexões
 
 ----
 
-# sinalizações em arquivos do VSCode
+# Sinalizações em arquivos do VSCode
 
 Quando estamos trabalhando em um projeto utilizando o versionamento Git e a IDE VSCode, ao adicionar ou alterar algum arquivo aparece uma sinalização ao lado do nome desses arquivos no VSCode, como podemos ver na imagem abaixo:
 
@@ -176,4 +187,4 @@ Essa sinalização nos ajuda a entender o estado atual dos nossos arquivos do pr
 
 Settings > Collaborators > add people
 
-
+<img src="https://64.media.tumblr.com/862b20bc85080ab4f15894eabe39749d/b4563749ec65009e-35/s540x810/3d993e34b6ab266982e89efd4d3992ee8134bc2f.gif" alt="bye" align="center" alt="yoda" width="50%" height=auto>

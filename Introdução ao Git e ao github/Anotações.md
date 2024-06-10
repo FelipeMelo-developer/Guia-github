@@ -1,16 +1,21 @@
 
 # Anotações
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Versionamento: Registro de mudanças em arquivos, que possibilita recuperação ou acesso a versão anteriores, possibilitando desenvolvimento de código em colaboração com outros integrantes.
+
+# O que é git:
+
+Git é um sistema de versionamento de código, que guarda os registros de versão como <b>snapshots</b> (fotos) do estado do projeto, além da referência/caminho para essa foto.
 
 ----
+# Intalação:
 
 Link para dowload do Git: https://git-scm.com/downloads
 
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+//O Git Bash é um terminal extendido para otimizar o uso do Git.//
 
 
-Criando um repositorio no Github:
+# Criando um repositorio no Github:
 
 Readme: Pagina inicial do nosso repositorio, um arquivo onde podemos por algumas considerações iniciais, links uteis e etc..
 gitignore: Arquivo que pode ser colocado para ignorar alguns arquivos que não são excenciais

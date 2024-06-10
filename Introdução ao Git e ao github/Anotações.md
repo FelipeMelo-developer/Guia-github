@@ -166,6 +166,10 @@ Isso renomeará o repositório remoto de "origin" para "novo-origin".
 
 Lembre-se de que o comando git remote é fundamental para a gestão de conexões entre seu repositório local e repositórios remotos, permitindo a colaboração eficiente e o controle de versão. 
 
+### 6 - Ver o que foi modificado
+
+<pre class="prettyprint"><code class="hljs language-lua">git diff<span class="hljs-built_in"></span>
+</code><button type="button" class="clipit"></button></pre>
 ----
 
 # Sinalizações em arquivos do VSCode

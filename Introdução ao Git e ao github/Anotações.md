@@ -12,8 +12,6 @@ Git é um sistema de versionamento de código, que guarda os registros de versã
 
 Link para dowload do Git: https://git-scm.com/downloads
 
-//O Git Bash é um terminal extendido para otimizar o uso do Git.//
-
 
 # Criando um repositorio no Github:
 
@@ -21,33 +19,45 @@ Readme: Pagina inicial do nosso repositorio, um arquivo onde podemos por algumas
 gitignore: Arquivo que pode ser colocado para ignorar alguns arquivos que não são excenciais
 Licença: Pode ser colocado é opcional.
 
-1-  Dentro da pasta onde deseja criar o repositorio local clique com botão direito do mouse e abra o Git Bash:
+### O Git Bash é um terminal extendido para otimizar o uso do Git.
 
-$ git clone + endereço de repositorio remoto.
+Dentro da pasta onde deseja criar o repositorio local clique com botão direito do mouse e abra o Git Bash:
 
-2 - Para entrar dentro da pasta coloque:
-$ cd + nome da pasta.
+<pre class="prettyprint"><code class="hljs language-csharp">$ git clone <span class="hljs-keyword">+</span> endereço de repositorio remoto.
+</code><button type="button" class="clipit"></button></pre>
+
+Para entrar dentro da pasta coloque:
+
+<pre class="prettyprint"><code class="hljs language-csharp">$ cd <span class="hljs-keyword">+</span> nome da pasta.
+</code><button type="button" class="clipit"></button></pre>
 
 #### Verificar o status:
-$ git status
+
+<pre class="prettyprint"><code class="hljs language-csharp">$ git <span class="hljs-keyword"></span>status
+</code><button type="button" class="clipit"></button></pre>
 
 Ao executá-lo é exibido na tela informações sobre as alterações feitas nos arquivos app.js e index.html do projeto e que essas mudanças que precisam ser registradas no commit.
 
 
 #### Para enviar o arquivos para controle de versão local(todos os arquivos):
-$ git add .
+<pre class="prettyprint"><code class="hljs language-csharp">$ git <span class="hljs-keyword"></span>add .
+</code><button type="button" class="clipit"></button></pre>
 
 Feito isso, provavelmente os arquivos foram adicionados Para conferir, rodamos novamente o git status.
 
 #### Verificando o status novamente
-$ git status
+
+<pre class="prettyprint"><code class="hljs language-csharp">$ git<span class="hljs-keyword"></span> status
+</code><button type="button" class="clipit"></button></pre>
 
 Repare que ao fazer isso, notamos no terminal que a ferramenta indica que existem alterações para serem comitadas e quais foram os arquivos modificados. Além disso, a cor mudou para verde, isso significa que os arquivos foram adicionados corretamente.
 
 Agora que você já adicionou, podemos fazer o commit, que é o comando responsável por registrar uma modificação no código.
 
 #### Para commitar o arquivo em nuvem:
-$ git commit -m "texto comentario do commit que faz sentido para o que esta sendo enviado"
+
+<pre class="prettyprint"><code class="hljs language-csharp">$ git commit <span class="hljs-keyword">-m</span> "texto comentario do commit que faz sentido para o que esta sendo enviado"
+</code><button type="button" class="clipit"></button></pre>
 
 Como retorno é informado que o commit foi realizado com sucesso.
 Importante ressaltar que, quando fazemos um commit é como se estivéssemos registrando uma versão do nosso sistema. Se estávamos na versão 1, passamos para a versão 2, depois para a versão 3, 4, 5, e assim por diante.
@@ -57,26 +67,29 @@ Um commit deve ser realizado sempre que você finalizar uma tarefa específica o
 #### verificando versão
 Existe um comando em que conseguimos identificar quais commits foram realizados no projeto e quem fez. Para isso, podemos utilizar o comando git log.
 
-$ git log
+<pre class="prettyprint"><code class="hljs language-csharp">$ git<span class="hljs-keyword"></span> log
+</code><button type="button" class="clipit"></button></pre>
 
 Ao executá-lo é exibido o histórico dos commits que foram feitos ao longo do projeto.
 
 Se analisarmos o retorno, retonhamos o primeiro commit que foi feito para subir o projeto inicial. Identificamos o nome do autor, data seguido da mensagem. Logo acima temos o commit mais atual que é o que acabamos de fazer.
 Observe que o git log mostra o log, ou seja, o histórico de commits realizados no projeto. Assim, podemos identificar quem foi que fez cada registro, a mensagem, o significado de cada registro, a data e toda essa sequência de alterações no repositório.
 
-
-$ git remote
-
+<pre class="prettyprint"><code class="hljs language-csharp">$ git<span class="hljs-keyword"></span> remote
+</code><button type="button" class="clipit"></button></pre>
 
 #### Enviando para o GitHub
 Para enviar para nuvem precisar ser dado um push
-$ git push origin (main ou master)
+
+<pre class="prettyprint"><code class="hljs language-csharp">$ git push origin<span class="hljs-keyword"></span> (main ou master)
+</code><button type="button" class="clipit"></button></pre>
 
 Utilize o comando git push para enviar os commits do repositório local ao repositório remoto no GitHub
 
 #### Baixando do GitHub
 
-git pull origin main
+<pre class="prettyprint"><code class="hljs language-csharp">$ git pull origin<span class="hljs-keyword"></span> (main ou master)
+</code><button type="button" class="clipit"></button></pre>
 
 O comando git pull origin main é utilizado para baixar os commits do repositório remoto para o repositório local.
 
